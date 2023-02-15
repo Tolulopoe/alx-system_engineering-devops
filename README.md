@@ -1,3 +1,1 @@
-#!/bin/bash
-alx-system engineering devops
-
+shell i/o redirections
